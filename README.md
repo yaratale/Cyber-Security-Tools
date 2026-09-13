@@ -1,4 +1,4 @@
-# 🛡️ Cyber Security Tools: Infrastructure Password Validator
+# Cyber Security Tools: Infrastructure Password Validator
 
 ## Project Overview
 This repository contains a practical **Python-based Security Script** designed to evaluate password strength against corporate network complexity requirements. 
